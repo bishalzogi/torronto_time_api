@@ -11,6 +11,10 @@ The application is up and running
 Retrived loged time using curl
 ![Screenshot from 2024-11-28 11-17-03](https://github.com/user-attachments/assets/3d329979-a44f-40c7-a4f2-17718d8c505c)
 
+current time in local host
+![image](https://github.com/user-attachments/assets/ef8d52e1-cf13-4a3c-baf2-96e09e9e9a59)
+
+
 
 
 
